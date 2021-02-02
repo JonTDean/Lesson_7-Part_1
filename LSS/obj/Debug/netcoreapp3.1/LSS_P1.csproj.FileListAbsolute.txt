@@ -1,0 +1,13 @@
+C:\Users\Jon\source\repos\LSS\LSS\bin\Debug\netcoreapp3.1\LSS_P1.exe
+C:\Users\Jon\source\repos\LSS\LSS\bin\Debug\netcoreapp3.1\LSS_P1.deps.json
+C:\Users\Jon\source\repos\LSS\LSS\bin\Debug\netcoreapp3.1\LSS_P1.runtimeconfig.json
+C:\Users\Jon\source\repos\LSS\LSS\bin\Debug\netcoreapp3.1\LSS_P1.runtimeconfig.dev.json
+C:\Users\Jon\source\repos\LSS\LSS\bin\Debug\netcoreapp3.1\LSS_P1.dll
+C:\Users\Jon\source\repos\LSS\LSS\bin\Debug\netcoreapp3.1\LSS_P1.pdb
+C:\Users\Jon\source\repos\LSS\LSS\obj\Debug\netcoreapp3.1\LSS_P1.csprojAssemblyReference.cache
+C:\Users\Jon\source\repos\LSS\LSS\obj\Debug\netcoreapp3.1\LSS_P1.AssemblyInfoInputs.cache
+C:\Users\Jon\source\repos\LSS\LSS\obj\Debug\netcoreapp3.1\LSS_P1.AssemblyInfo.cs
+C:\Users\Jon\source\repos\LSS\LSS\obj\Debug\netcoreapp3.1\LSS_P1.csproj.CoreCompileInputs.cache
+C:\Users\Jon\source\repos\LSS\LSS\obj\Debug\netcoreapp3.1\LSS_P1.dll
+C:\Users\Jon\source\repos\LSS\LSS\obj\Debug\netcoreapp3.1\LSS_P1.pdb
+C:\Users\Jon\source\repos\LSS\LSS\obj\Debug\netcoreapp3.1\LSS_P1.genruntimeconfig.cache

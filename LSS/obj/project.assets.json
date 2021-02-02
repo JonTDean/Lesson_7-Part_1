@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jon\\source\\repos\\LSS\\LSS\\LSS_P1.csproj",
+      "projectUniqueName": "C:\\Users\\Jon\\Documents\\Programming\\Woz-U\\Finished\\_Unzipped\\LSS\\LSS\\LSS_P1.csproj",
       "projectName": "LSS_P1",
-      "projectPath": "C:\\Users\\Jon\\source\\repos\\LSS\\LSS\\LSS_P1.csproj",
+      "projectPath": "C:\\Users\\Jon\\Documents\\Programming\\Woz-U\\Finished\\_Unzipped\\LSS\\LSS\\LSS_P1.csproj",
       "packagesPath": "C:\\Users\\Jon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jon\\source\\repos\\LSS\\LSS\\obj\\",
+      "outputPath": "C:\\Users\\Jon\\Documents\\Programming\\Woz-U\\Finished\\_Unzipped\\LSS\\LSS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jon\\AppData\\Roaming\\NuGet\\NuGet.Config",
